@@ -1,1 +1,1 @@
-# presentation_ows
+... a reveal.js presentation (private properties)
