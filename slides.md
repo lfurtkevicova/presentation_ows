@@ -636,7 +636,7 @@
   * [1/3]() owned by <span style="color:yellow">Stenczel Gerhard</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Juraj</span>
   * [1/9]() owned by <span style="color:yellow">Vlková Alena</span>
-* <!-- .element: class="fragment" --> location of properties shown in the following slides ...
+* <!-- .element: class="fragment" --> properties located variously throughout entire cadastral district of Spišké Tomášovce ...
 
 ----
 
