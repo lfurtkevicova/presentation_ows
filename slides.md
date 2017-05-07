@@ -7,7 +7,7 @@
 
 #### 4 cadastral districts
 
-###### created by [Ing. Ľudmila Furtkevičová](https://sk.linkedin.com/in/furtkevicova) | 2017-02-17 | furkevicova@pentainvestments.com | +421 903 590 004
+###### created by [Ing. Ľudmila Furtkevičová](https://sk.linkedin.com/in/furtkevicova) | 2017-05-11 | furkevicova@pentainvestments.com | +421 903 590 004
 
 ----  ----
 
@@ -21,10 +21,12 @@
 
 ----
 
+* <span style="color:orange">Parcels of interest</span>
 ![](img/ku_ke_pozemky_all.png)
 
 ----
 
+* <span style="color:orange">Parcels of interest (othophoto)</span>
 ![](img/ku_ke_pozemky_orto_all.png)
 
 ----
@@ -58,12 +60,12 @@
 ### No. <span style="color:darkturquoise">__2674__</span>
 
 * [5]() owners, [5.5 ha]() arable land, [0.5 ha]() grassland 
-  * [1/9]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+  * [1/9]() owned by <span style="color:orange">Jindrák Rudolf</span>
   * [1/9]() owned by <span style="color:yellow">Kučerová Eva</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Juraj</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Gerhard</span>
   * [1/9]() owned by  <span style="color:yellow">Vlková Alena</span>
-* <!-- .element: class="fragment" --> properties located variously throughout  entire cadastral district of Kežmarok ...
+* properties located variously throughout  entire cadastral district of Kežmarok
 
 ----
 
@@ -136,12 +138,12 @@
 ### No. <span style="color:darkturquoise">__2677__</span>
 
 * [5]() owners, [2.8 ha]() arable land, [0.04 ha]() grassland 
-  * [1/9]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+  * [1/9]() owned by <span style="color:orange">Jindrák Rudolf</span>
   * [1/9]() owned by <span style="color:yellow">Kučerová Eva</span>
   * [1/9]() owned by <span style="color:yellow">Stenczel Juraj</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Gerhard</span>
   * [1/3]() owned by  <span style="color:yellow">Vlková Alena</span>
-* <!-- .element: class="fragment" --> properties located variously throughout  entire cadastral district of Kežmarok ...
+* properties located variously throughout  entire cadastral district of Kežmarok 
 
 ----
 
@@ -186,13 +188,13 @@
 ### No. <span style="color:darkturquoise">__3034__</span>
 
 * [5]() owners, [0.6 ha]() arable land, [0.03 ha]() grassland 
-  * [1/9]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+  * [1/9]() owned by <span style="color:orange">Jindrák Rudolf</span>
   * [1/9]() owned by <span style="color:yellow">Kučerová Eva</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Juraj</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Gerhard</span>
   * [1/9]() owned by  <span style="color:yellow">Vlková Alena</span>
 * properties rented by <span style="color:yellow">"Poľnohospodárske družstvo podielnikov Kežmarok"</span>
-* <!-- .element: class="fragment" --> properties located near water basin _"Vodná nádrž Kežmarok"_ ...
+* properties located near water basin _"Vodná nádrž Kežmarok"_ 
 
 ----
 
@@ -236,13 +238,13 @@
 
 ### No. <span style="color:darkturquoise">__4810__</span>
 
-* [5]() owners, [17.5 ha]() forest area 
-  * [1/9]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+* [5]() owners, [17.5 ha]() __forest area__ 
+  * [1/9]() owned by <span style="color:orange">Jindrák Rudolf</span>
   * [1/9]() owned by <span style="color:yellow">Kučerová Eva</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Juraj</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Gerhard</span>
   * [1/3]() owned by  <span style="color:yellow">Vlková Alena</span>
-* <!-- .element: class="fragment" --> properties located near pond _"Rybník Zlatná"_ ...
+* properties located near pond _"Rybník Zlatná"_ 
 
 ----
 
@@ -319,8 +321,8 @@
 ### No. <span style="color:darkturquoise">__5584__</span>
 
 * [1]() owner, [2.3 ha]() arable land, [0.8 ha]() grassland 
-  * [1/1]() owned by <span style="color:yellow">Jindrák Rudolf</span>
-* <!-- .element: class="fragment" --> properties located variously throughout  entire cadastral district of Kežmarok ...
+  * [1/1]() owned by <span style="color:orange">Jindrák Rudolf</span>
+* properties located variously throughout  entire cadastral district of Kežmarok 
 
 ----
 
@@ -358,10 +360,12 @@
 
 ----
 
+* <span style="color:orange">Parcels of interest</span>
 ![](img/ku_ml_pozemky_all.png)
 
 ----
 
+* <span style="color:orange">Parcels of interest (othophoto)</span>
 ![](img/ku_ml_pozemky_orto_all.png)
 
 ----
@@ -393,11 +397,11 @@
 ### No. <span style="color:darkturquoise">__895__</span>
 
 * [4]() owners, [2.6 ha]() other areas 
-  * [~ 1/6]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+  * [~ 1/6]() owned by <span style="color:orange">Jindrák Rudolf</span>
   * [~ 1/6]() owned by <span style="color:yellow">Kučerová Eva</span>
   * [~ 1/6]() owned by <span style="color:yellow">Vlková Alena</span>
   * [~ 1/2]() owned by <span style="color:yellow">Stenczel Juraj</span>
-* <!-- .element: class="fragment" --> location of properties shown in the following slides ...
+* location of properties shown in the following slides 
 
 ----
 
@@ -425,7 +429,7 @@
 ### No. <span style="color:darkturquoise">__902__</span>
 
 * [7]() owners, [2.4 ha]() other areas 
-  * [~ 3/28]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+  * [~ 3/28]() owned by <span style="color:orange">Jindrák Rudolf</span>
   * [~ 3/28]() owned by <span style="color:yellow">Kučerová Eva</span>
   * [~ 1/28]() owned by <span style="color:yellow">Mačišák František</span>
   * [~ 11/28]() owned by <span style="color:yellow">Mesto Kežmarok</span>
@@ -458,8 +462,8 @@
 
 ### No. <span style="color:darkturquoise">__1042__</span>
 
-* [3]() owners, [1 ha]() arable land, [2.1 ha]() forest area 
-  * [1/3]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+* [3]() owners, [1 ha]() arable land, [2.1 ha]() __forest area__ 
+  * [1/3]() owned by <span style="color:orange">Jindrák Rudolf</span>
   * [1/3]() owned by <span style="color:yellow">Kučerová Eva</span>
   * [1/3]() owned by  <span style="color:yellow">Vlková Alena</span>
 
@@ -505,7 +509,7 @@
 ### No. <span style="color:darkturquoise">__1516__</span>
 
 * [1]() owner, [0.2 ha]() grassland 
-  * [1/1]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+  * [1/1]() owned by <span style="color:orange">Jindrák Rudolf</span>
 
 ----
 
@@ -527,10 +531,12 @@
 
 ----
 
+* <span style="color:orange">Parcels of interest</span>
 ![](img/ku_sm_pozemky_all.png)
 
 ----
 
+* <span style="color:orange">Parcels of interest (othophoto)</span>
 ![](img/ku_sm_pozemky_orto_all.png)
 
 ----
@@ -556,12 +562,12 @@
 ### No. <span style="color:darkturquoise">__3911__</span>
 
 * [5]() owners, [1.4 ha]() arable land
-  * [1/9]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+  * [1/9]() owned by <span style="color:orange">Jindrák Rudolf</span>
   * [1/9]() owned by <span style="color:yellow">Kučerová Eva</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Gerhard</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Juraj</span>
   * [1/9]() owned by <span style="color:yellow">Vlková Alena</span>
-* <!-- .element: class="fragment" --> location of properties shown in the following slides ...
+* location of properties shown in the following slides 
 
 ----
 
@@ -599,10 +605,12 @@
 
 ----
 
+* <span style="color:orange">Parcels of interest</span>
 ![](img/ku_st_pozemky_all.png)
 
 ----
 
+* <span style="color:orange">Parcels of interest (othophoto)</span>
 ![](img/ku_st_pozemky_orto_all.png)
 
 ----
@@ -629,14 +637,14 @@
 
 ### No. <span style="color:darkturquoise">__704__</span>
 
-* [5]() owners, [9.2 ha]() grass land, [1.2 ha]() built-up areas, [45.5 ha]() arable land, [49.7 ha]() forest areas, [0.5 ha]() gardens
+* [5]() owners, [9.2 ha]() grass land, [1.2 ha]() built-up area, [45.5 ha]() arable land, [49.7 ha]() __forest area__, [0.5 ha]() gardens
 * including "E" register 
-  * [1/9]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+  * [1/9]() owned by <span style="color:orange">Jindrák Rudolf</span>
   * [1/9]() owned by <span style="color:yellow">Kučerová Eva</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Gerhard</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Juraj</span>
   * [1/9]() owned by <span style="color:yellow">Vlková Alena</span>
-* <!-- .element: class="fragment" --> properties located variously throughout entire cadastral district of Spišké Tomášovce ...
+* properties located variously throughout entire cadastral district of Spišké Tomášovce 
 
 ----
 
@@ -741,9 +749,9 @@
 
 ### No. <span style="color:darkturquoise">__1098__</span>
 
-* [5]() owners, [4 ha]() grass land, [1.4 ha]() built-up areas, [36.4 ha]() arable land, [8.1 ha]() forest areas, [0.04 ha]() gardens, [17.3 ha]() other areas
+* [5]() owners, [4 ha]() grass land, [1.4 ha]() built-up area, [36.4 ha]() arable land, [8.1 ha]() __forest area__, [0.04 ha]() gardens, [17.3 ha]() other areas
 * including "E" register 
-  * [1/9]() owned by <span style="color:yellow">Jindrák Rudolf</span>
+  * [1/9]() owned by <span style="color:orange">Jindrák Rudolf</span>
   * [1/9]() owned by <span style="color:yellow">Kučerová Eva</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Gerhard</span>
   * [1/3]() owned by <span style="color:yellow">Stenczel Juraj</span>
@@ -809,9 +817,61 @@
 
 <!-- .element: class="no-toc-progress" -->
 
+### SUMMARY 
+<span style="color:green">__FOREST AREA__</span>
+* _Kežmarok_
+  * [17.5 ha](), No. 4810, __1/9__ <span style="color:orange">Jindrák Rudolf</span> .. [2 ha]()
+* _Mlynčeky_
+  * [2.1 ha](), No. 1042, __1/3__ <span style="color:orange">Jindrák Rudolf</span> .. [0.7 ha]()
+* _Spišské Tomášovce_
+  * [49.7 ha](), No. 704, __1/9__ <span style="color:orange">Jindrák Rudolf</span> .. [5.5 ha]()
+  * [8.1 ha](), No. 1098, __1/9__ <span style="color:orange">Jindrák Rudolf</span> .. [1 ha]()
+
+* <span style="color:green">__77.5 ha__</span>, ratio owned by rJIN equals <span style="color:green">__9.2 ha__</span>
+
+----
+
+<!-- .element: class="no-toc-progress" -->
+
+#### Forest area in Kežmarok
+##### <span style="color:yellow">17.5 ha</span>, <span style="color:orange">2 ha</span> (rJIN) 
+
+<img width="677" src="img/lesy_ke.png" >
+
+----
+
+<!-- .element: class="no-toc-progress" -->
+
+#### Forest area in Mlynčeky
+##### <span style="color:yellow">2.1 ha</span>, <span style="color:orange">0.7 ha</span> (rJIN) 
+
+<img width="677" src="img/lesy_ml.png" >
+
+----
+
+<!-- .element: class="no-toc-progress" -->
+
+#### Forest area in Spišské Tomášovce
+##### <span style="color:yellow">57.8 ha</span>, <span style="color:orange">6.5 ha</span> (rJIN) 
+
+<img width="677" src="img/lesy_st.png" >
+
+
+
+
+
+
+
+
+
+
+----  ----
+
+<!-- .element: class="no-toc-progress" -->
+
 ## <span style="color:darkturquoise">Thank You for Your attention! </span>
 
 <!-- .element: class="no-toc-progress" -->
 
-###### PROPERTIES in the East of Slovak republic | 4 cadastral districts | created by [Ing. Ľudmila Furtkevičová](https://sk.linkedin.com/in/furtkevicova) | 2017-02-17 | furkevicova@pentainvestments.com | +421 903 590 004
+###### PROPERTIES in the East of Slovak republic | 4 cadastral districts | created by [Ing. Ľudmila Furtkevičová](https://sk.linkedin.com/in/furtkevicova) | 2017-05-11 | furkevicova@pentainvestments.com | +421 903 590 004
 
