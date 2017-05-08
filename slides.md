@@ -856,14 +856,13 @@
 
 <img width="677" src="img/lesy_st.png" >
 
+----
 
+<!-- .element: class="no-toc-progress" -->
 
+#### Forest area (ORAVA region)
 
-
-
-
-
-
+<img width="677" src="img/lesy_or.png" >
 
 ----  ----
 
