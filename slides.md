@@ -860,7 +860,7 @@
 
 <!-- .element: class="no-toc-progress" -->
 
-#### Forest area (ORAVA region)
+#### Forest area (HELPA region)
 
 <img width="677" src="img/lesy_or.png" >
 
